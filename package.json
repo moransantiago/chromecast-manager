@@ -1,0 +1,14 @@
+{
+  "name": "chromecast",
+  "version": "1.0.0",
+  "description": "An app to cast from pc to chromecast",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "moransantiago",
+  "license": "ISC",
+  "dependencies": {
+    "chromecast-api": "^0.3.4"
+  }
+}
